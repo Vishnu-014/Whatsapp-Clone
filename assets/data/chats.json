@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "user": {
+      "id": "u2",
+      "name": "Giyuu",
+      "image": "https://c4.wallpaperflare.com/wallpaper/642/695/642/anime-demon-slayer-kimetsu-no-yaiba-giyuu-tomioka-hd-wallpaper-preview.jpg"
+    },
+    "lastMessage": {
+      "id": "m1",
+      "text": "This is Giyuu 🗡",
+      "createdAt": "2023-05-02T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "2",
+    "user": {
+      "id": "u3",
+      "name": "Zenitsu Agatsuma",
+      "image": "https://c4.wallpaperflare.com/wallpaper/555/163/727/anime-demon-slayer-kimetsu-no-yaiba-zenitsu-agatsuma-hd-wallpaper-preview.jpg"
+    },
+    "lastMessage": {
+      "id": "m2",
+      "text": "Holo",
+      "createdAt": "2023-05-07T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "3",
+    "user": {
+      "id": "u4",
+      "name": "Tanjiro Kamado",
+      "image": "https://c4.wallpaperflare.com/wallpaper/611/755/770/tanjiro-kamado-anime-sword-redhead-kimetsu-no-yaiba-hd-wallpaper-preview.jpg"
+    },
+    "lastMessage": {
+      "id": "m3",
+      "text": "Hiiii",
+      "createdAt": "2023-05-07T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "4",
+    "user": {
+      "id": "u5",
+      "name": "TatsukiFujimoto",
+      "image": "https://c4.wallpaperflare.com/wallpaper/182/40/912/chainsaw-man-tatsukifujimoto-4k-anime-anime-girls-hd-wallpaper-preview.jpg"
+    },
+    "lastMessage": {
+      "id": "m4",
+      "text": "😁",
+      "createdAt": "2023-05-07T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "5",
+    "user": {
+      "id": "u6",
+      "name": "Yagami Light",
+      "image": "https://c4.wallpaperflare.com/wallpaper/446/146/321/anime-death-note-wallpaper-preview.jpg"
+    },
+    "lastMessage": {
+      "id": "m5",
+      "text": "📓",
+      "createdAt": "2023-05-07T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "6",
+    "user": {
+      "id": "u7",
+      "name": "Satoru Gojo",
+      "image": "https://c4.wallpaperflare.com/wallpaper/809/831/593/jujutsu-kaisen-satoru-gojo-anime-hd-wallpaper-preview.jpg"
+    },
+    "lastMessage": {
+      "id": "m6",
+      "text": "💥",
+      "createdAt": "2023-05-07T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "7",
+    "user": {
+      "id": "u8",
+      "name": "Thanos",
+      "image": "https://c4.wallpaperflare.com/wallpaper/5/2/574/thanos-josh-brolin-avengers-infinity-war-marvel-cinematic-universe-wallpaper-preview.jpg"
+    },
+    "lastMessage": {
+      "id": "m7",
+      "text": "Thanos",
+      "createdAt": "2023-05-07T13:30:00.000Z"
+    }
+  },
+  {
+    "id": "8",
+    "user": {
+      "id": "u9",
+      "name": "Deadpool",
+      "image": "https://c4.wallpaperflare.com/wallpaper/695/151/754/deadpool-deadpool-2-marvel-cinematic-universe-marvel-comics-wallpaper-preview.jpg"
+    },
+    "lastMessage": {
+      "id": "m8",
+      "text": "Deadpool",
+      "createdAt": "2022-09-27T15:40:00.000Z"
+    }
+  }
+]
