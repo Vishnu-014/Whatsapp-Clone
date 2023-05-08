@@ -32,3 +32,12 @@ To start up the app locally
 ```bash
 npm start
 ```
+
+
+## Screenshots
+
+
+![alt text](https://github.com/Vishnu-014/Whatsapp-Clone/blob/main/screenshots/IMG_5431.PNG)
+![alt text](https://github.com/Vishnu-014/Whatsapp-Clone/blob/main/screenshots/IMG_5432.PNG)
+![alt text](https://github.com/Vishnu-014/Whatsapp-Clone/blob/main/screenshots/IMG_5433.PNG)
+![alt text](https://github.com/Vishnu-014/Whatsapp-Clone/blob/main/screenshots/IMG_5435.PNG)
